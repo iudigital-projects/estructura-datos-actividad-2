@@ -63,7 +63,7 @@ mvn -version
 
 ```bash
 git clone <url-del-repositorio>
-cd producto-tda
+cd estructura-datos-actividad-2
 ```
 
 ### 2. Compilar el proyecto
@@ -75,6 +75,6 @@ mvn clean compile
 ### 3. Ejecutar el programa
 
 ```bash
-mvn exec:java -Dexec.mainClass="com.learning.App"
+mvn exec:java -Dexec.mainClass="com.actividad.App"
 ```
 
